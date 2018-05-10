@@ -24,7 +24,7 @@
                                             <label class="control-label" id="level">
                                                 <?= $Lang->get("CL_LBL_LEVEL"); ?>
                                                 (
-                                                <span class="label label-success">PLANIFIER</span>
+                                                <span class="label label-success">PLANIFIÉ</span>
                                                 <span class="label label-info">TERMINÉ</span>
                                                 <span class="label label-warning">EN COURS</span>
                                                 <span class="label label-danger">ÉCHEC</span>
